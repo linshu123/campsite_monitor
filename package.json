@@ -1,0 +1,23 @@
+{
+  "name": "campsite_monitor",
+  "version": "1.0.0",
+  "description": "\"Find a camp!\"",
+  "main": "main.js",
+  "dependencies": {
+    "request": "^2.76.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linshu123/campsite_monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linshu123/campsite_monitor/issues"
+  },
+  "homepage": "https://github.com/linshu123/campsite_monitor#readme"
+}
